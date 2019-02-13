@@ -1,0 +1,30 @@
+{
+  "name": "progressive-web-app-test",
+  "version": "1.0.0",
+  "description": "Trying to implement a simple Progressive web app with a node express.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dePablobernat/progressive-web-app-test.git"
+  },
+  "keywords": [
+    "PWA",
+    "Progressive",
+    "Web",
+    "APP",
+    "nodejs",
+    "Express"
+  ],
+  "author": "Bernat de Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dePablobernat/progressive-web-app-test/issues"
+  },
+  "homepage": "https://github.com/dePablobernat/progressive-web-app-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
